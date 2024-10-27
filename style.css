@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    height: 100vh;
+    background-image: url('christmas.jpg'); 
+    background-size: cover; 
+
+}
+
+
+.tree {
+    line-height: 3; 
+    font-size: 10px; 
+}
+
+.star.red {
+    color: red; 
+}
+
+.star.green {
+    color: green; 
+}
+
+.foot {
+    color: black; 
+    text-align: center; 
+}
